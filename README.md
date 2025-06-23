@@ -12,7 +12,7 @@ This repository contains interactive dashboards and reports I've built to explor
 **Dataset:** Superstore Sample Dataset  
 📥 **[Download the PBIX File](./PowerBI_Sales_Dashboard.pbix)**  
 📸 **Screenshot:**  
-![Sales Dashboard](./PowerBi_Sales_Dashboard_SS.png)
+![Sales Dashboard](./screenshots/PowerBi_Sales_Dashboard_SS.png)
 
 **Overview:**  
 This dashboard provides key insights into sales, profit, and customer performance across different regions and product categories.
